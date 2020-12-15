@@ -1,2 +1,2 @@
-# solidity
+# Solidity
 Coding Smart contracts in Remix
