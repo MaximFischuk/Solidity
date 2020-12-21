@@ -20,7 +20,9 @@ include:
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
+
 Examples of unacceptable behavior by participants include:
+
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
  advances
@@ -32,6 +34,8 @@ Examples of unacceptable behavior by participants include:
  professional setting
 
 ## Our Responsibilities
+
+
 
 Project maintainers are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
