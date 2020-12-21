@@ -1,0 +1,46 @@
+Miscellaneous contracts and libraries containing utility functions you can use to improve security, work with new data types, or safely use low-level primitives.
+
+Security tools include:
+
+{Pausable}: provides a simple way to halt activity in your contracts (often in response to an external threat).
+
+{ReentrancyGuard}: protects you from reentrant calls.
+
+The {Address}, {Arrays} and {Strings} libraries provide more operations related to these native data types, while {SafeCast} adds ways to safely convert between the different signed and unsigned numeric types.
+
+For new data types:
+
+{Counters}: a simple way to get a counter that can only be incremented or decremented. Very useful for ID generation, counting contract activity, among others.
+
+{EnumerableMap}: like Solidity’s mapping type, but with key-value enumeration: this will let you know how many entries a mapping has, and iterate over them (which is not possible with mapping).
+
+{EnumerableSet}: like {EnumerableMap}, but for sets. Can be used to store privileged accounts, issued IDs, etc.
+
+Note
+Because Solidity does not support generic types, {EnumerableMap} and {EnumerableSet} are specialized to a limited number of key-value types.
+
+As of v3.0, {EnumerableMap} supports uint256 → address (UintToAddressMap), and {EnumerableSet} supports address and uint256 (AddressSet and UintSet).
+
+Finally, {Create2} contains all necessary utilities to safely use the CREATE2 EVM opcode, without having to deal with low-level assembly.
+
+Contracts
+{{Pausable}}
+
+{{ReentrancyGuard}}
+
+Libraries
+{{Address}}
+
+{{Arrays}}
+
+{{Counters}}
+
+{{Create2}}
+
+{{EnumerableMap}}
+
+{{EnumerableSet}}
+
+{{SafeCast}}
+
+{{Strings}}
