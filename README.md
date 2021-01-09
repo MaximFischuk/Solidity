@@ -1,2 +1,2 @@
-# Solidity
-Smart-Contracts Tested, Compiled, and Deployed with [Remix.ethereum.org] ~By(0xcDeC8) MITCHΞLL
+# Solidity Smart-Contracts
+Smart-Contracts Tested, Compiled, and Deployed with [Remix.ethereum.org]-on the Kovan and Goerli Testnet
