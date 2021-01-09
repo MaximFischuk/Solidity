@@ -1,2 +1,2 @@
 # Solidity
-My Collaboration of Solidity smart-contracts for testing and deploying in Remix
+Smart-Contracts Tested, Compiled, and Deployed with [Remix.ethereum.org] ~By(0xcDec8) MITCHΞLL
