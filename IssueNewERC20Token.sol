@@ -13,7 +13,7 @@ pragma solidity ^=0.4.24 >0.8.0;
 //
 // Enjoy.
 //
-// (c) by Justin L. Mitchell 2021. The MIT Licence.
+// (c) by Justin Mitchell 2021. The MIT Licence.
 // ----------------------------------------------------------------------------
 
 
